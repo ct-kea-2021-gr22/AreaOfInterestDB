@@ -2,6 +2,8 @@
 
 This is a repository containing SQL script for Coderstrust and their AreaOfInterest quiz.
 
+REMEBER!! Extract the .zip
+
 # Creating the Database
 1. First open up your Preffered IDE, for this project MySQLWorkbench has been used.
 
@@ -23,4 +25,14 @@ After creating the database it is now time to play around with data manipulation
 
 1. Open the SQL file called "DML-group22-CT" in your IDE.
 
-2. 
+2. Run the CreateDumpData() procedure by executing the CREATE PROCEDURE and then CALL <PROCEDURENAME>
+
+3. Feel free to play around in the DML
+
+#Extras
+
+1. A small pyhton script has been developed 
+
+2. Open your preffred IDE and run the script, remember to have your DBMS running.
+
+3. Remember to fill out <YOUR PASSWORD> for your localhost database after it has been created
