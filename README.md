@@ -29,7 +29,7 @@ After creating the database it is now time to play around with data manipulation
 
 3. Feel free to play around in the DML
 
-#Extras
+# Extras
 
 1. A small pyhton script has been developed 
 
